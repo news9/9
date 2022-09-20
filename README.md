@@ -45,7 +45,7 @@
 
 <h2>
 </h2>
-<p><a href="https://github.com/Alvin9999/new-pac/wiki">其他自由上网方法</p>
+<p><a href="https://github.com/Alvin9999/new-pac/wiki">其他自由上网方法</a></p>
 <hr>
 <p>如有疑问可联系邮箱fanq@gmx.com</p>
 
